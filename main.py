@@ -1,6 +1,3 @@
-"""
-Inspired by:  https://www.youtube.com/watch?v=sQFCe_W14js
-"""
 from bs4 import BeautifulSoup
 import requests
 import urllib.request
